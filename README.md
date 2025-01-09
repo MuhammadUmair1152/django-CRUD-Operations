@@ -25,7 +25,7 @@ Django CRUD Operation UI is a simple web application built using Django that all
 
 1. **Clone the Repository:** Start by cloning the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/django-crud-operation-ui.git
+   git clone https://github.com/MuhammadUmair1152/django-crud-operation-ui.git
    cd django-crud-operation-ui
    ```
 
